@@ -10,7 +10,7 @@ const options = {
   method: 'GET',
   url: 'https://quotes15.p.rapidapi.com/quotes/random/',
   headers: {
-    'X-RapidAPI-Key': '9cab0f8082msh152f241bd12d86dp18385djsn827a676f5ee9',
+    'X-RapidAPI-Key': 'xxxxxxxxx',
     'X-RapidAPI-Host': 'quotes15.p.rapidapi.com'
   }
 };
