@@ -12,6 +12,8 @@ Welcome to our Great Quotes Generator website! This platform is dedicated to del
 
 - **Share and Save Quotes**: Share your favorite quotes with friends and family on social media platforms or save them for future inspiration.
 
+  https://github.com/Muntajir11/QuoteMachine/assets/91109805/088c148a-c1d2-4748-b055-85a836dbcf7c
+
 ## How to Use
 
 1. **Homepage**: Upon visiting our website, you will encounter an inspiring quote displayed prominently on the homepage.
